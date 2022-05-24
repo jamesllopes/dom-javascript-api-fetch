@@ -3,7 +3,7 @@
 </div>
 
 ## :point_right: Acesse o Projeto
-cubosflix-hazel.vercel.app/pages
+https://cubosflix-hazel.vercel.app/pages
 
 
 ## :dart: Sobre o Projeto
