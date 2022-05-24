@@ -175,7 +175,7 @@ body {
   
   display: flex;
   gap: 24px;
-  margin-bottom: 60px;
+  padding-bottom: 60px;
 }
 
 .highlight__video {
