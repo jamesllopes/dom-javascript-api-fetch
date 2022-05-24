@@ -3,14 +3,14 @@
 </div>
 
 ## :point_right: Acesse o Projeto
--- BREVE --
+-- BREVE --GIT
 
 
 ## :dart: Sobre o Projeto
 Projeto desenvolvido por mim, proposto pela Cubos Academy, finalizando o modulo 2 do curso de Desenvolvimento de Software.
 
 O projeto consistiu na elaboração de uma plataforma de streaming, consumindo a API via fetch.
-Além de praticar o consumo de API no front end, esse desafio propôe a prática do HTML dinâmico, eventos, paginação, filtro através de input e mais.
+Além de praticar o consumo de API no front end, esse desafio propõe a prática do HTML dinâmico, eventos, paginação, filtro através de input e mais.
 
 
 ## ❗ Tecnologias Utilizadas
