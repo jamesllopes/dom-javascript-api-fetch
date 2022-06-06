@@ -11,7 +11,7 @@ const searchMovie = async (event) => {
     let responseSearch = await fetch(urlSearch)
     let moviesDataSearch = await responseSearch.json()
     moviesDataSearch.results.forEach(element => {
-        return moviesTemp.push(element)
+        moviesTemp.push(element)
     })
     criarElementos(0, 5)
     input.value = ''
