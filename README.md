@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>CuboFlix <br>Cubos Academy <br>Modulo 2</h3>
+	<h3>CubosFlix <br>Cubos Academy <br>Modulo 2</h3>
 </div>
 
 ## :point_right: Acesse o Projeto
